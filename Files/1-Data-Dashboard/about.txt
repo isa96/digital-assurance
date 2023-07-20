@@ -1,0 +1,45 @@
+1: Data Dashboard
+It's an urgent special project. You're on the team.
+
+# Background Information
+Our trustworthy client, the insurance company “ShieldGruppe”, is worried. The Chairman of the Audit & Risk Committee called to say he’s just seen the newspaper: one of their customers, “Sword AG”, made the headlines due to serious accusations of corruption by one of their Managing Directors. Will ShieldGruppe damage their excellent reputation by working with Sword AG? Is there a way to mitigate the risk of doing business with them? He gives us a special project to review all dealings between the two companies as a basis for deciding whether to continue the business relationship. And it’s urgent! 
+
+You will be responsible for executing a data analysis – of client and contract data sets plus information on ShieldGruppe employees – to see if there have been gaps in the process. 
+
+Jonathan our Digital Assurance team leader for this assignment is depending on you. He has sent you an email with additional information and is waiting for you to contact him.
+
+# Task Brief
+Check out the email from Jonathan.
+
+"""
+Hi there,
+
+Attached are the data sets and some additional information about our client ShieldGruppe. Can you please analyse the data and identify any relationships and claims that were made for/by Sword AG during the last years?
+
+Also, please develop a dashboard to help us easily visualise insights for our presentation to the management of ShieldGruppe after completing the fieldwork. Remember, we must apply professional scepticism in reviewing the data of ShieldGruppe as we are their auditor.
+
+I've also attached an example of a PowerBI dashboard for you to see what I'm looking for. Be sure to note down any insights/findings you've made based on your data analytics.
+
+Thanks for your help.
+
+Kind regards,
+Jonathan
+
+P.S. You may use Excel, Google Sheets, Tableau or Power Bl. Feel free to use any other data analytics tools that you know of.
+"""
+
+This experience is self-paced. However, Jonathan is holding an update call with the client in 1 hour and needs your valuable input. We recommend you spend no more than that completing this task.
+
+# Task Resources
+	PowerBI Desktop Download Link
+	https://powerbi.microsoft.com/en-us/desktop/
+	
+	PowerBI Dashboard Example
+	https://cdn.theforage.com/vinternships/companyassets/4sLyCPgmsy8DA6Dh3/PowerBI_Dashboard_Example.pbix
+	https://cdn.theforage.com/vinternships/companyassets/4sLyCPgmsy8DA6Dh3/PowerBI_Dashboard_Example.pdf
+	
+	ShieldGruppe Claims and Contracts
+	https://cdn.theforage.com/vinternships/companyassets/4sLyCPgmsy8DA6Dh3/Data_ShieldGruppe_Claims%20and%20Contracts.xlsx
+	
+	ShieldGruppe Members of Management
+	https://cdn.theforage.com/vinternships/companyassets/4sLyCPgmsy8DA6Dh3/Data_ShieldGruppe_Members%20of%20Management.pdf

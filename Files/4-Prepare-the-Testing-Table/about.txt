@@ -1,0 +1,47 @@
+4: Prep the Testing Table
+Serious business. Analyse the information and perform the audit.
+
+# Background Information
+Great, you did it. Thanks to you, the CIO provided us with everything we need to perform the ERP authorisation process audit. Jonathan is already thinking about the next steps, here’s what you need to do.
+
+# Task Brief
+Check out the email from Jonathan.
+
+"""
+Hello,
+I'd like you to review all information the CIO provided. Start with the IT Access Control Policy and assess if everything is covered.
+
+After that, please proceed with the audit as follows - I've provided you with a testing table that contains an example:
+
+1)  Check if, based on user authorization requests, employees have been assigned with appropriate authorizations or if authorizations have been removed if they left ShieldGruppe.
+2)  Check the password settings against the policy provided by the CIO.
+
+While doing this audit keep in mind the overall objective of this special project and what you have identified during the first part of the
+project.
+
+After completing this audit please prepare the testing table so that potential insights or findings are highlighted and ready for my review.
+
+Thanks,
+Jonathan
+"""
+
+This experience is self-paced. However, Jonathan is completing the review in 1 hour and needs your valuable input. We recommend you spend no more than that completing this task.
+
+# Task Resources
+	Testing Table Template
+	https://cdn.theforage.com/vinternships/companyassets/4sLyCPgmsy8DA6Dh3/Testing%20Table%20Template.xlsx
+
+	IT Access Control Policy
+	https://cdn.theforage.com/vinternships/companyassets/4sLyCPgmsy8DA6Dh3/IT%20Access%20Control%20Policy.pdf
+
+	Change Log - All Users
+	https://cdn.theforage.com/vinternships/companyassets/4sLyCPgmsy8DA6Dh3/Change%20log%20all%20users.xlsx
+
+	RSPARAM (Password Settings)
+	https://cdn.theforage.com/vinternships/companyassets/4sLyCPgmsy8DA6Dh3/RSPARAM%20(Password%20settings).xlsx
+
+You want to learn more? Level up by listening to a portion (or all!) of our Transforming Risk into Confidence podcast series linked below to learn more.
+
+	Podcast
+	The evolution of the controls testing and monitoring landscape
+	https://www.pwc.com/us/en/services/risk-assurance/podcasts/controls-testing-monitoring.html

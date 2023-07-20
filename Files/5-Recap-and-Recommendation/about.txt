@@ -1,0 +1,35 @@
+5: Recap and Recommendation
+Last but not least: prepare a presentation for management.
+
+# Background Information
+Great job! The audit went smoothly and the CIO was happy with our work, well done. Now you need to prepare for a closing meeting with management of ShieldGruppe. We will present our insights and findings together with our recommendations for process improvements. Jonathan needs your help to finish this assignment, so jump directly into it.
+
+# Task Brief
+Voicemail from Jonathan:
+
+[voice message transcript below]
+
+“Hey there, 
+
+I just got a phone call from the Audit & Risk Committee Chairman. He wants us to present our insights and findings tomorrow at an additional board meeting they’ve just set up. Can you please quickly prepare a presentation with a management summary and details in the appendix? You could use screenshots of your dashboard and put some wording around it in a management summary. Please include an overview with findings of your ERP authorisation audit including a risk rating.
+
+Thanks a lot for all your work. Wouldn’t it be great if you could present it yourself tomorrow?”
+
+Please create a PowerPoint slide deck on executive level including (but not limited to) the following to complete the task:
+
+	Insights from our data analysis
+	Insights from our IT audit over user authorisation
+	Conclusion and recommendation 
+
+You can use any screenshots from dashboards or graphs you want to create or already made e.g. in task 1. Use all items you think are needed to create a powerful presentation to the management.
+
+This experience is self-paced. Anyway, Jonathan is finalising the presentation in 1 hour and needs your creative input. We recommend you spend no more than that completing this task.
+
+# Task Resources
+You don't need any specific resources for this task. But if you find it difficult, pause and level up with resources you find online.
+
+You want to learn more? Level up by listening to a portion (or all!) of our Transforming Risk into Confidence podcast series linked below to learn more.
+
+	Podcast
+	Optimising risk functions through the benefits of collaboration
+	https://www.pwc.com/us/en/services/risk-assurance/podcasts/2020-global-risk-study-optimizing-risk-functions-collaboration.html

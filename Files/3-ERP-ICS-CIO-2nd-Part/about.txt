@@ -1,0 +1,33 @@
+3: ERP, ICS, CIO - you got this!
+New knowledge, new tasks.
+
+# Background Information
+Thanks for completing the multiple-choice quiz - you levelled up and are ready to help the team with the new task. Jonathan is already waiting for you, now onto the second part!
+
+# Task Brief
+The data sets you received were from the (ERP) system at ShieldGruppe. The Chairman of the Audit & Risk Committee has asked us to review the authorisation process of this system to examine if it is appropriately controlled. Authorisations are critical for maintaining client relationships and contracts as well as capturing claims for their insurance clients.
+
+Jonathan left you a message.
+
+[voice message transcript below]
+
+“Hey there, thanks for helping me with the data analysis. 
+
+As you know the client has asked us to assess if certain IT processes are appropriately controlled – specifically the user access management to their ERP system where they maintain contracts and claims. 
+
+Can you please have a look at the IT internal control system (ICS) matrix for the authorisation process. See how it describes controls, what evidence is required for each control, and how we test such controls. 
+
+Then draft an email to the Chief Information Officer (CIO) at ShieldGruppe with a request for specific information that will enable us to obtain the evidence we need to prepare our IT authorisation audit. We will need data for the last couple of years. From my experience, I recommend that you focus on granting and revocation of access rights as well as password settings. And ask for a policy describing controls in this area. Finally, ask to set up a meeting with him so he can explain their processes to us. 
+
+Thanks.”
+
+Please draft an email using MS Word or PowerPoint to complete the task.
+
+This experience is self-paced. But, Jonathan is needing the data in 1 hour to brief the team. We recommend you spend no more than that completing this task.
+
+# Task Resources
+	ICS Matrix
+	https://cdn.theforage.com/vinternships/companyassets/4sLyCPgmsy8DA6Dh3/ICS%20-%20Matrix.pdf
+
+	CIO Contact Information
+	https://cdn.theforage.com/vinternships/companyassets/4sLyCPgmsy8DA6Dh3/Business%20card.pdf
